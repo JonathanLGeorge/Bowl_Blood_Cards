@@ -196,6 +196,141 @@ Occupies. Note that should a square ever contain two balls, one ball will immedi
 When a touchdown is scored. Roll a D6. On a roll of 1 – 3, the ball evaporates and is immediately removed from play, No touchdown is scored
 
 
+RANDOM EVENTS
+Enjoy your trip?
+“Oh dear. That’s a bit petty, isn’t it? I do hope none
+Of those thousands of fans in the crowd saw!”
+TIMING
+Play this card at the end of an of your team turns,
+Even if it ended in a Turnover.
+DURRATION 
+Discard this card immediately after use.
+EFFECT
+Choose one Standing player that is being
+Marked by one of your players. That player is immediately 
+Placed Prone.
+
+
+
+
+
+
+
+
+
+
+
+RANDOM EVENTS
+Heckler
+“There’s a heckler in the crowd!”
+“…And they don’t like that they’re seeing!”
+TIMING
+Play this card immediately after one of the opposition’s 
+Team turns has ended if during that team turn one of their
+Players was Staling. 
+DURRATION 
+Discard this card immediately after use. 
+EFFECT
+The stalling player must immediately move D3+1
+Squares directly away from your End Zone and towards
+Their own. During his movement, the player automatically passes any Agility tests they may be required to make in order to Dodge, regardless of any modifiers. During this movement, the player may only move diagonally or sideways to move around occupied squares. 
+
+
+
+
+
+
+
+
+
+RANDOM EVENTS
+Walk It Off
+“Ouch! That’s going to leave a mark!”
+TIMING
+Play when declaring a Foul Action, 
+Before any dice have been rolled.
+DURRATION 
+Discard this card immediately after use. 
+EFFECT
+If the Armour roll breaks the armour of the 
+Foul action, and should the victim then become Stunned, they gain the Bone Head trait for the remainder of this drive. 
+
+RANDOM EVENTS
+Sprinkler Malfunction
+“The sprinklers have come on!”
+“Is that what that is? That’s a relief”
+TIMING
+Play this card at the start of any of the opposition’s team turns, before and player is activated
+DURRATION 
+This card expires at the end of the drive.
+EFFECT
+Whilst this card is in play, apply an additional -1 modifier when any player performing a Pass action test against their PA, or when any player tests against their AG to pick up or catch the ball. 
+
+
+
+RANDOM EVENTS
+Pot Hole
+“Something seems off about the footing today!”
+TIMING
+Play this card when the coach of the opposing team activated an Open player to perform a Move, Pass, Hand-off, or Foul action. 
+DURRATION 
+This card expires at the end of the active player’s activation. 
+EFFECT
+Should the active player wish to move, they must Dodge as if they are being Marked in order to vacate the square hey occupy when activated. 
+
+RANDOM EVENTS
+Public Inconvenience
+“Is…is that the drains I can smell?”
+“Yes. Let’s hope the wind changes direction soon!”
+TIMING
+Play this card during the pre-game sequence, after step 1but before step 2. 
+DURRATION 
+This card expires immediately if a Changing Weather result is rolled on the Kick-off table. 
+EFFECT
+Do not roll on the Weather table. Instead, apply the following weather conditions. 
+
+Drainage Issues: Apply and additional -1 modifier every time a player attempts to Rush an extra square. In addition, apply an additional -1 modifier when any player tests against their AG to pick up the ball. 
+
+
+RANDOM EVENTS
+Flock of Seagulls
+“Oh, I say! That’s a lot of seagulls!”
+“Well, it serves the players right for eating chips n the pitch!”
+TIMING
+Play this card at the start of any of your team turns, before any player is activated. 
+DURRATION 
+This card expires at the end of your opponent’s next team turn,  
+EFFECT
+Choose one Standing opposition player that is not in possession of the ball. Whilst this card is in play, that player loses their Tackle Zone. In addition, that player cannot be activated during the opposing team’s next team turn. 
+
+
+
+
+
+
+MISCELLANEOUS MAYHEM
+Training Trouble
+“Rumor has it, this team has recently lost its training ground!”
+“It’s really starting to show!”
+TIMING
+Play this card during and Start of Drive sequence in which your team is the kicking team, after step 3 but before the start of the receiving team’s first turn. 
+DURRATION 
+This card expires at the end of the drive.  
+EFFECT
+Whilst this card is in play, every player on the opposing team that does not have the Loner (X) trait gains the Loner (2+) trait. 
+
+
+
+MISCELLANEOUS MAYHEM
+Keep It Moving
+“I hear this Team’s been receiving a lot of disaster management training. That’s the spirit!”
+TIMING
+Play this card immediately when a player on your team Falls Over during your team turn
+DURRATION 
+Discard this card immediately after use. 
+EFFECT
+A Turnover is not caused; the active player’s activation still ends, but you are free to continue with your turn as though they had just been Placed Prone. 
+
 https://www.youtube.com/watch?v=5OEkbye3e6c&t=585s
-Next card @9:45
+Next card @15:11
 
