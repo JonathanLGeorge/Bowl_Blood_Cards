@@ -331,6 +331,110 @@ Discard this card immediately after use.
 EFFECT
 A Turnover is not caused; the active player’s activation still ends, but you are free to continue with your turn as though they had just been Placed Prone. 
 
+
+MISCELLANEOUS MAYHEM
+“This Beer Tastes Funny!”
+“Apparently the stadium has hired a Rotspawn as its newest barman.”
+“I don’t like the way it drips in the tankards!”
+TIMING
+Play this card during the pre-game sequence, after step 5 but before step 6. 
+DURRATION 
+Discard this card immediately after use. 
+EFFECT
+Choose D3 players on the opposing team. These players are immediately Placed Prone and become Stunned. 
+
+
+
+MISCELLANEOUS MAYHEM
+Assassination Attempt 
+“Rumor has it that an assassin’s been seen sneaking around!”
+TIMING
+Play this card immediately after one of the opposition’s team turns has ended if, during that team turn, one of their players was stalling. 
+DURRATION 
+Discard this card immediately after use. 
+EFFECT
+The stalling player is attacked by an assassin. Roll a D6
+D6 	Result
+1	The player fends off the assassin. 
+This card has no further effect. 
+	2-3	The player is immediately Placed Prone.
+	4-5	The player is immediately Knocked Down.
+	6	The player is immediately Knocked Down and you apply a +1 modifier to either
+		The armor roll or injury roll. This modifier may be applied after the roll has been made. 
+
+
+
+
+
+
+
+
+MISCELLANEOUS MAYHEM
+Technicality
+“And the referee’s whistle has blown. Hold on. Yes, it looks like the coach is pointing at a copy of the rules. Who let them have that?”
+TIMING
+Play this card at the end of any of your team turns, even if it ended with a Turnover. 
+DURRATION 
+Discard this card immediately after use. 
+EFFECT
+Choose one player on the opposing team. That player is immediately Sent-off for committing a Foul. 
+
+MISCELLANEOUS MAYHEM
+It’s All To Play For
+“The referee is invoking the newly-created ‘Bonus Points’ rule. This is absolute nonsense!”
+TIMING
+Play this card at the start of either your second, third or fourth turn of either the first or second half, before any player is activated. This card cannot be played during a period of extra time.
+DURRATION 
+This card expires at the end of this team turn.
+EFFECT
+If your team scores a touchdown during this turn, roll a D6. On a roll of 5+, your team (and the player that scored the touchdown) is considered to have scored two touchdowns, rather than one.  
+
+
+
+
+
+MISCELLANEOUS MAYHEM
+Magic Sponge
+“They say this team has a strong following among the Colleges of Magic!”
+“That would explain the magical recovery when number ‘s head came off!”
+TIMING
+Play this card when a player on your team suffers a Casualty result of 15-16, DEAD.
+DURRATION 
+This card expires at the end of this game. 
+EFFECT
+Roll a D6
+D6		Result
+1	This card has no effect.
+2+	The DEAD player recovers whilst this card is in play and may be placed in the Reserves box of your dugout. However, once this card expires, the player will still be DEAD. 
+
+
+MISCELLANEOUS MAYHEM
+Ego Trip
+“It’s a real shame to see success and fame go to a player’s head!”
+“No one likes a dastardly diva!”
+TIMING
+Play this card at the end of any of your team turns, even if it ended with a Turnover. 
+DURRATION 
+This card expires at the end of this drive. 
+EFFECT
+Choose one player on the opposing team. Whilst this card is in play, that player must be activated first in each of their team turns, before any of their team-mates are activated. If that player is not activated first, that player cannot be activated at all during that team turn. 
+
+
+
+
+
+
+MAGICAL MEMORABILIA
+Oath Stone of the High Coach
+“The head coach has planted a highly-ornamented stone on the sideline and its refusing to get down from it!”
+TIMING
+Play this card during the pre-game sequence after step 5 but before step 6. 
+DURRATION 
+This card expires at the end of the game.
+EFFECT
+You may apply a 1+ modifier to the D6 roll , both when determining which coach wins a Brilliant Coaching result rolled on the Kick-off table, and when attempting to Argue the Call
+
+
 https://www.youtube.com/watch?v=5OEkbye3e6c&t=585s
-Next card @15:11
+Next card @19:50
 
