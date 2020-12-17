@@ -551,6 +551,86 @@ This card expires at the end of the active player’s activation.
 EFFECT
 Whilst this card is in play, the active player may re-roll any dice roll(s) that are made during their activation. Each re-roll is made as if a team re-roll had been used (as opposed to a skill re-roll, for example). However, at the end of this player’s activation, your team suffer an automatic Turnover. 
 
-https://www.youtube.com/watch?v=5OEkbye3e6c&t=585s
-Next card @28_00
 
+BENEFITS OF TRAINING 
+Down The Chain
+“The ball is changing hands again… and again… and again!”
+TIMING
+Play this card at the start of any of your team turns, before any player is activated.   
+DURRATION 
+This card expires at the end of this team turn. 
+EFFECT
+Whilst this card is in play, the usual limit of one Hand-off action per team turn does not apply. Instead, any number of players on your team can perform a Hand-Off action during their activation. 
+
+
+
+
+BENEFITS OF TRAINING 
+Flea Flicker
+“The ball’s clear, and it’s away!”
+“Oh! And it’s away again!”
+TIMING
+Play this card at the start of any of your team turns, before any player is activated.   
+DURRATION 
+This card expires at the end of this team turn. 
+EFFECT
+Whilst this card is in play, your team may perform two Pass actions per turn, rather then the usual one. However, whilst this card is in play, your team may only perform Quick pass or Short pass actions. 
+
+BENEFITS OF TRAINING 
+Boot Camp
+“Woah! The things they teach rookies these days! I had to learn where to plant a sneaky boot for best effect the hard way…”
+TIMING
+Play this card when activating a player belonging to your team during your team turn.  
+DURRATION 
+This card expires at the end of the active player’s activation. 
+EFFECT
+Whilst this card is in play, the active player may re-roll either the Armour roll or the Injury roll when committing a Foul action. However, if the result of the re-roll is a double, the active player will be sent off as normal. If the discarded roll was a double, the player is not sent-off.  
+
+
+
+
+BENEFITS OF TRAINING 
+Helping Hand
+“Number 7 is playing like they’ve grown an extra arm!”
+“Well, something like that, But that’s not actually ‘their’ arm!”
+TIMING
+Play this card during the pre-game sequence, after step 5 but before step 6. 
+DURRATION 
+This card expires at the end of this game
+EFFECT
+Choose one player on your team. Whilst this card is in play, this player gains the Big Hand, Extra Arms and Sure Hands skills. 
+
+BENEFITS OF TRAINING 
+Team Talk
+“Looks like the coach is giving the players a friendly pep talk.”
+TIMING
+Play this card during and Start od Drive sequence in which your team is the receiving team, after step 2 but before step 3. 
+DURRATION 
+This card expires at the end of this drive 
+EFFECT
+Whilst this card is in play, roll a D3 every time you use a team re-roll. If he roll is higher than the number of team re-rolls you have remaining, you immediately regain one team re-roll.
+
+
+BENEFITS OF TRAINING 
+Switcheroo
+“Sorry for the confusion there, viewers, they all start looking the same after a while!”
+TIMING
+Play this card at the start of any of your team turns, before any player is activated.   
+DURRATION 
+Discard this card immediately after use. 
+EFFECT
+Choose two players on your team that are not in possession of the ball that each have a Strength characteristic of 4 or less. These two players immediately switch places. 
+
+
+BENEFITS OF TRAINING 
+All-Out Blitz
+“Like I always say – the best defense is hitting the other team until they stop moving!”
+TIMING
+Play this card at the start of any of your team turns, before any player is activated.   
+DURRATION 
+This card expires at the end of this team turn. 
+EFFECT
+Whilst this card is in play, your team may perform two Blitz actions per team turn, rather than the usual one.  
+
+
+https://www.youtube.com/watch?v=5OEkbye3e6c&t=585s
