@@ -362,7 +362,195 @@ This card expires at the end of the game.
 EFFECT
 You may apply a 1+ modifier to the D6 roll , both when determining which coach wins a Brilliant Coaching result rolled on the Kick-off table, and when attempting to Argue the Call
 
+MAGICAL MEMORABILIA
+Helm of Many Eyes
+“It looks like hundreds of eyeballs have sprouted from their helmet”
+TIMING
+Play this card at the start of any of your team turns, before any player is activated. 
+DURRATION 
+This card expires at the end of this drive. 
+EFFECT
+Choose one player on your team. Whilst this card is in play, this player gains both Dodge and Break Tackle skills, and the Really Stupid trait.
+
+
+
+
+
+MAGICAL MEMORABILIA
+Spranley’s Cup
+“Burbo Spranely commissioned this enchanted wonder to protect his most-prized assets after one too many run-ins with a Goblin’s hobnail boots.”
+TIMING
+Play this card during the pre-game sequence after step 5 but before step 6. 
+DURRATION 
+This card expires at the end of the game.
+EFFECT
+Choose one player on your team. Whilst this card is in play, Foul cannot be committed against this player. In addition, Injury rolls made against this player cannot be modified in any way. 
+
+
+MAGICAL MEMORABILIA
+Enchanted Bucket
+“I’m not sure what the coach has in that bucket, but I wouldn’t want it sponged onto my brow!”
+TIMING
+Play this card during the End of a Drive sequence, after step 1 but before step 2.
+DURRATION 
+This card expires at the end of the game.
+EFFECT
+Choose one Knocked-out player in your dugout. This player immediately recovers, without the need to roll a D6. Additionally, whist this card is in play, this player gains both Disturbing Presence and Foul Appearance skills. 
+
+
+
+
+MAGICAL MEMORABILIA
+Sweatband of Conquest
+“That really is quite spectacular headgear…”
+TIMING
+Play this card during the pre-game sequence after step 5 but before step 6. 
+DURRATION 
+This card expires at the end of the game.
+EFFECT
+Randomly select one player on your team that is available to play during this game. Whilst this card is in play, this player gains both the Regeneration and improves their AV by 1 (to a maximum of 11+).
+
+MAGICAL MEMORABILIA
+Skrot’s Sticky Slop
+“The famous Orc player, ‘Stikka Skrot,’ used to smear a magical gloopy paste on his hands before every game!”
+“that wasn’t magic, that was glue!”
+TIMING
+Play this card during the pre-game sequence after step 5 but before step 6. 
+DURRATION 
+This card expires at the end of the game.
+EFFECT
+Choose one player on your team. Whilst this card is in play, this player gains both the Catch and Sure Hands skills, but cannot perform Pass or Hand-off Actions. 
+
+
+
+
+MAGICAL MEMORABILIA
+Bob’s Biffin’ Helmet
+“The refs gave up trying to make Bob Bifford wear a helmet once he’d pointed out that they never survived his first headbutt – I’m not sure whether he was talking about the headgear ot the match officials…”
+TIMING
+Play this card during  any Start of Drive sequence, after step 2 but before step 3. 
+DURRATION 
+This card expires after the chosen player performs their first Block action (on its own or as part of a Blitz action).
+EFFECT
+Choose one player on your team. Whilst this card is in play, this player gains the Mighty Blow (+1) skill and may improve their Strength by 2 when performing a Block action (on its own or as part of a Blitz action).
+
+
+MAGICAL MEMORABILIA
+Gruk the Bear’s Gauntlet’s
+“A lot of players want to wear these simply so they can say they’ve killed someone with their ‘bear hands!’”
+TIMING
+Play this card during the pre-game sequence after step 5 but before step 6. 
+DURRATION 
+This card expires at the end of this drive
+EFFECT
+Choose one player on your team. Whilst this card is in play, this player may improve their Strength by 1. However once this card expires, this player must reduce their Strength by 2 until the end of the game. 
+
+
+HEROIC FEATS
+Cather’s Instincts 
+“It’s like they knew where the ball was going before it even went there!”
+TIMING
+Play this card during any Start of Drive sequence in which your team is the receiving team, after step 2 but before step 3.  
+DURRATION 
+This card expires at the end of this game.
+EFFECT
+Choose one player on your team that is Open and that is not on the Line of Scrimmage. Whilst this card is in play, this player may apply a +1 modifier when they test against their AG to catch the ball. Additionally, when this card is played, this player may immediately move any number of squares so that they occupy the square in which the ball will land, after deviating 
+
+
+
+HEROIC FEATS
+Burst of Speed
+“Somebody’s had a heathy breakfast of porridge this morning!”
+TIMING
+Play this card at the start of any of your team turns, before any player is activated. 
+DURRATION 
+This card expires at the end of this team turn. 
+EFFECT
+Choose one player on your team. Whilst this card is in play, this player gains both the Sprint and Sure Feet skills, and may improve their MA by 1 (to a maximum of 9)
+
+
+
+HEROIC FEATS
+Quick Thinking 
+“There’s no one lined up to catch that pass… No wait! I take it back!”
+TIMING
+Play this card when a player belonging t your team performs a Pass action, after the range has been measured and he target square declared, but before the active player makes a Passing Ability test. 
+DURRATION 
+Discard this card immediately after use.
+EFFECT
+Choose a single Standing player on your team. That player may immediately move up to three squares, even if they have already been activated this turn. If the moving player Falls Over, a turnover is caused. 
+
+
+HEROIC FEATS
+In the Zone 
+“Did you see the look in number 12’s eyes? Nothing going to get in their way!”
+TIMING
+Play this card when activating a player belonging to your team during your team turn.  
+DURRATION 
+This card expires at the end of the active player’s activation.
+EFFECT
+Whilst this card is in play, the active player may reduce by 1 any negative modifiers they suffer for being Marked to a minimum of -1.
+
+
+
+
+HEROIC FEATS
+Sizzling Shimmy
+“Hey, where’re they going?!”
+“I don’t know, but they’re getting there by dancing!”
+TIMING
+Play this card when activating a player belonging to your team during your team turn.  DURRATION 
+This card expires at the end of the active player’s activation.
+EFFECT
+Whilst this card is in play, the active player may apply a +1 modifier when they test against AG to Dodge. However, whilst this card is in play, the active player must reduce their MA by 1.
+
+
+HEROIC FEATS
+Punt
+“Well then, I guess they didn’t want the ball after all…”
+TIMING
+Play this card at the end of any of your team turns, even if it ended with a Turnover, but only if the player on your team has possession of the ball when the turn ends.   
+DURRATION 
+Discard this card immediately after use.
+EFFECT
+Immediately place the ball in any square you wish. After being placed, the ball will scatter before landing. If the ball is not caught by a player, it will bounce as normal before it comes to rest on the ground. 
+
+
+
+HEROIC FEATS
+Suicide Blitz
+“The ball’s barely touched the ground, but that maniac’s already punching!”
+TIMING
+Play this card during any Start of Drive sequence in which your team is the kicking team, after step 3 but before the start of the receiving team’s first turn. 
+DURRATION 
+Discard this card immediately after use. 
+EFFECT
+Choose a single Open player on your team that is not in possession of the ball. This player may immediately activate exactly as they would during a normal team tun to perform a Blitz action. For the duration of this activation, this player is considered to have the No Hands trait. 
+
+
+HEROIC FEATS
+Die Hard
+“These players take a beating, but they just keep on coming!”
+TIMING
+Play this card at the start of any of your team turns, before any player is activated. 
+DURRATION 
+This card expires at the end of this team turn. 
+EFFECT
+Choose D3 Stunned players on your team. These players immediately roll over and become Prone. 
+
+
+
+
+BENEFITS OF TRAINING 
+Kingmaker Play
+“Now that’s teamwork – staying out of the way so one guy can grab the glory!”
+TIMING
+Play this card when activating a player belonging to your team during your team turn.  
+DURRATION 
+This card expires at the end of the active player’s activation.
+EFFECT
+Whilst this card is in play, the active player may re-roll any dice roll(s) that are made during their activation. Each re-roll is made as if a team re-roll had been used (as opposed to a skill re-roll, for example). However, at the end of this player’s activation, your team suffer an automatic Turnover. 
 
 https://www.youtube.com/watch?v=5OEkbye3e6c&t=585s
-Next card @19:50
+Next card @28_00
 
